@@ -4,12 +4,12 @@ Some text
 
 ## Subheader one
 
-updating the README.md remotely
+updating the README remotely
 
 
 ## Subheader two
 
-updating the README.md locally
+updating the README locally
 
 ## Subheader three
 second time updating the README remotely!
