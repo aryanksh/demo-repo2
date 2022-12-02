@@ -4,12 +4,8 @@ Some text
 
 ## Subheader one
 
-changing README locally!
+Watch tutorial on YouTube.
 
-## Subheader two
+## Local Development
 
-Changing README remotely (fetch)
-
-## Subheader three
-
-Pushing this to remote repo
+1. Open index.html in your browser.
